@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
- main()
+ int main()
  {
    int k;
    scanf("%d", &k);
-   printf("You entered: %d\n", k);
+   printf("You  knob entered: %d\n", k);
    return 0;
     }
